@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I'm really interested in cars and how they work**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Check out my LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vincent-allam-a86330252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vincent-allam-a86330252" height="30" width="40" /></a>
 </p>
