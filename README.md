@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Tensorflow, Pytorch**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VincentA004?tab=repositories](https://github.com/VincentA004)
+- 👨‍💻 All of my projects are available at [https://github.com/VincentA004](https://github.com/VincentA004?tab=repositories)
 
 - 📫 How to reach me **allamvincent4@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/VincentA004/resume/blob/main/Vincent_Allam_Resume_sp8.pdf](https://github.com/VincentA004/resume/blob/main/Vincent_Allam_Resume_sp8.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/VincentA004/resume/blob/main/Vincent_Allam_Resume_sp8.pdf)
 
 - ⚡ Fun fact **I'm really interested in cars and how they work**
 
