@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tensorflow, Pytorch**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VincentA004](https://github.com/VincentA004)
+- 👨‍💻 All of my projects are available at [https://github.com/VincentA004?tab=repositories](https://github.com/VincentA004)
 
 - 📫 How to reach me **allamvincent4@gmail.com**
 
