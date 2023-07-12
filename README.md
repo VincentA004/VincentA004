@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **allamvincent4@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/VincentA004/resume/blob/main/Vincent_Allam_Resume_sp8.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/VincentA004/resume/blob/main/Vincent%20Allam%20current%20resume_cv.pdf)
 
 - ⚡ Fun fact **I'm really interested in cars and how they work**
 
