@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vincent Allam</h1>
 <h3 align="center">Student at Hebron High School pursuing AI/Deep learning projects</h3>
 
-- 🔭 I’m currently working on **Deep learning FMRI image decoder**
+- 🔭 I’m currently working on **Reinforcement learning based game**
 
 - 🌱 I’m currently learning **Tensorflow, Pytorch**
 
